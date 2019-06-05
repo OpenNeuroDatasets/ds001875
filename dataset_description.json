@@ -16,6 +16,8 @@
         "Canada First Research Excellence Fund (to BrainsCAN)",
         "J.S. McDonnell Foundation (Collaborative Research Grant 220020255)"
     ],
-    "ReferencesAndLinks": ["Additional information on this dataset can be found in the following papers: 1) Ghahremani M, Hutchison RM, Menon RS, Everling S (2017) Frontoparietal functional connectivity in the common marmoset. Cerebral Cortex 27 (8): 3890-3905, and 2) Shen K, Goulas A, Grayson DS, Eusebio J, Gati JS, Menon RS, McIntosh AR, Everling S (2019) Exploring the limits of network topology estimation using diffusion-based tractography and tracer studies in the macaque cortex. Neuroimage 191: 81-92."],
-    "DatasetDOI": ""
+    "ReferencesAndLinks": [
+        "Additional information on this dataset can be found in the following papers: 1) Ghahremani M, Hutchison RM, Menon RS, Everling S (2017) Frontoparietal functional connectivity in the common marmoset. Cerebral Cortex 27 (8): 3890-3905, and 2) Shen K, Goulas A, Grayson DS, Eusebio J, Gati JS, Menon RS, McIntosh AR, Everling S (2019) Exploring the limits of network topology estimation using diffusion-based tractography and tracer studies in the macaque cortex. Neuroimage 191: 81-92."
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds001875.v1.0.3"
 }
